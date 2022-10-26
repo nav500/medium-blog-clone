@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+sanity-blog/node_modules
 
 # testing
 /coverage
@@ -28,8 +29,6 @@ yarn-error.log*
 # local env files
 .env*.local
 
-# vercel
-.vercel
 
 # typescript
 *.tsbuildinfo
